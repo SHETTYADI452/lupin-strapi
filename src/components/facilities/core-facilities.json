@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_facilities_core_facilities",
+  "info": {
+    "displayName": "CoreFacilities",
+    "icon": "apps"
+  },
+  "options": {},
+  "attributes": {
+    "Facility": {
+      "displayName": "Facility",
+      "type": "component",
+      "repeatable": true,
+      "component": "facilities.facility"
+    }
+  }
+}

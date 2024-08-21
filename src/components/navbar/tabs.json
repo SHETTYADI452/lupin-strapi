@@ -1,0 +1,19 @@
+{
+  "collectionName": "components_navbar_tabs",
+  "info": {
+    "displayName": "Tabs",
+    "icon": "discuss",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "links": {
+      "type": "component",
+      "repeatable": true,
+      "component": "navbar.link"
+    }
+  }
+}

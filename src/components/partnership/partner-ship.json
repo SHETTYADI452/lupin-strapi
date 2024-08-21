@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_partnership_partner_ships",
+  "info": {
+    "displayName": "PartnerShip",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "Scheme": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

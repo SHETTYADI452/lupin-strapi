@@ -1,0 +1,30 @@
+{
+  "kind": "singleType",
+  "collectionName": "landing_pages",
+  "info": {
+    "singularName": "landing-page",
+    "pluralName": "landing-pages",
+    "displayName": "LandingPage",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "PageContent": {
+      "type": "dynamiczone",
+      "components": [
+        "tests.tests",
+        "titles.title",
+        "carousel.carousel",
+        "partnership.partner-ship",
+        "partnership.partner-ship-list",
+        "tests.test-list",
+        "experience.patient-experiences",
+        "experience.experience",
+        "header.header"
+      ]
+    }
+  }
+}

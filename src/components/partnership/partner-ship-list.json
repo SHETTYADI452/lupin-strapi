@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_partnership_partner_ship_lists",
+  "info": {
+    "displayName": "PartnerShipList"
+  },
+  "options": {},
+  "attributes": {
+    "SchemeList": {
+      "type": "component",
+      "repeatable": true,
+      "component": "partnership.partner-ship"
+    }
+  }
+}

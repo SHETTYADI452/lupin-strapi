@@ -1,0 +1,26 @@
+{
+  "collectionName": "components_facilities_facilities",
+  "info": {
+    "displayName": "Facility",
+    "icon": "arrowRight"
+  },
+  "options": {},
+  "attributes": {
+    "Name": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    },
+    "Logo": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": false
+    }
+  }
+}

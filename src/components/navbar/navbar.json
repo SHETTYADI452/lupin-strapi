@@ -1,0 +1,15 @@
+{
+  "collectionName": "components_navbar_navbars",
+  "info": {
+    "displayName": "Navbar",
+    "icon": "bulletList"
+  },
+  "options": {},
+  "attributes": {
+    "Tabs": {
+      "type": "component",
+      "repeatable": true,
+      "component": "navbar.tabs"
+    }
+  }
+}

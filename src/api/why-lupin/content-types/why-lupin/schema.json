@@ -1,0 +1,26 @@
+{
+  "kind": "singleType",
+  "collectionName": "why_lupins",
+  "info": {
+    "singularName": "why-lupin",
+    "pluralName": "why-lupins",
+    "displayName": "WhyLupin",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "PageContent": {
+      "type": "dynamiczone",
+      "components": [
+        "titles.title",
+        "facilities.facility",
+        "facilities.core-facilities",
+        "header.header",
+        "banner.banner"
+      ]
+    }
+  }
+}

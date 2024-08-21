@@ -1,0 +1,22 @@
+{
+  "kind": "collectionType",
+  "collectionName": "text_boxes",
+  "info": {
+    "singularName": "text-box",
+    "pluralName": "text-boxes",
+    "displayName": "TextBox",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Sample": {
+      "type": "blocks"
+    },
+    "SAMPLE2": {
+      "type": "text"
+    }
+  }
+}

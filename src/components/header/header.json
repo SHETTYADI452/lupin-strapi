@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_header_headers",
+  "info": {
+    "displayName": "Header",
+    "icon": "bold"
+  },
+  "options": {},
+  "attributes": {
+    "Header": {
+      "type": "string"
+    }
+  }
+}

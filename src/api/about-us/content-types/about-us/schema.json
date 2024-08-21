@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "about_uses",
+  "info": {
+    "singularName": "about-us",
+    "pluralName": "about-uses",
+    "displayName": "AboutUs",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "AboutPage": {
+      "type": "dynamiczone",
+      "components": [
+        "titles.title",
+        "header.header",
+        "banner.banner"
+      ]
+    }
+  }
+}

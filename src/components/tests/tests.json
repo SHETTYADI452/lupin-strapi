@@ -1,0 +1,20 @@
+{
+  "collectionName": "components_tests_tests",
+  "info": {
+    "displayName": "Test",
+    "icon": "chartBubble",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "TestName": {
+      "type": "string"
+    },
+    "Amount": {
+      "type": "string"
+    },
+    "Description": {
+      "type": "text"
+    }
+  }
+}

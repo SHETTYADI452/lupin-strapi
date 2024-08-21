@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_titles_titles",
+  "info": {
+    "displayName": "Title",
+    "icon": "alien"
+  },
+  "options": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "SubTitle": {
+      "type": "text"
+    }
+  }
+}
